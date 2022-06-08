@@ -1,0 +1,48 @@
+body{
+    padding-top: 80px;
+    overflow-x: hidden;
+}
+.icon{
+    margin-left: 200px;
+}
+
+.account{
+    margin-right: 200px;
+}
+.navbar{
+    height: 80px;
+}
+
+.carousel-item{
+    height: 500px;
+}
+
+.mainpage-cards{
+    background-color: #ebebeb;
+    
+}
+
+.car-header{
+    z-index: -1;
+    height: 560px;
+
+}
+
+.d{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+header{
+    position: relative;
+
+}
+.emailForm{
+    position: sticky;
+    top: 80px;
+}
+
+.accordion-button{
+    font-weight: bold;
+}
